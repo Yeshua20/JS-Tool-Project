@@ -14,7 +14,7 @@ Antishetif Tamiru ----> github username (antishetif) <br>
 ***
 Project Keynotes
 
- **Calcuator Tool**
+ **Calcuator Tool that does arthimetic operation**
  
   **Quiz App that consists of General,History and langauge questions.**
   
