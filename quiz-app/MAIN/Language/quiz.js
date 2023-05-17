@@ -24,7 +24,7 @@ const quizArray = [
     },
     {
         id: "1",
-        question: "What the two major languages spoken in Ethiopiant?",
+        question: "What the two major languages spoken in Canada",
         options: ["French and English", "Spanish and German", "Arabic and Armaic", "Spanish and Portugesse"],
         correct: "French and English",
     },
