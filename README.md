@@ -18,7 +18,7 @@ Project Keynotes
  
   **Quiz App that consists of General,History and langauge questions.**
   
-  **To-Do-list that is capable of adding, editing and deleting a note the user Enters
+  **To-Do-list that is capable of adding, editing and deleting a note the user Enters**
  
   **Game app that is based on the idea of rock paper and scissors game**
   
