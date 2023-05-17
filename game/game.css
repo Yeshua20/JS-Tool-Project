@@ -12,7 +12,7 @@ body{
     color:#9E6F21;
     background-color:#DBDFEA;
    padding: 30px 20px;
-   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+   box-shadow: 10px 10px 5px 0px rgb(0,0,0,0.75);
     border-radius: 10px;
 }
 
@@ -26,7 +26,7 @@ body{
 	cursor:pointer;
 	color:#3a8a9e;
 	font-family:Arial;
-	font-size:17px;
+	font-size:20px;
 	padding:9px 27px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #e1e2ed;
