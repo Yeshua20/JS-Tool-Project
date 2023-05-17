@@ -1,8 +1,8 @@
 # JS-Tool-Project 
 This is a JavaScript tools group project <br>
-**
+
 Group Member 
-**
+<br>
 Yoseph Shimelis----> github username (Yeshua20) <br>
 Gedion Sisay -----> github username  (Gedwon) <br>
 Fuad Abubeker -----> github username (Fua21)  <br>
