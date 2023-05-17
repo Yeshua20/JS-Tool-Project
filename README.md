@@ -1,16 +1,17 @@
-# JS-Tool-Project
-This is a JavaScript tools group project
-
+# JS-Tool-Project **
+This is a JavaScript tools group project <br>
+****
 Group Member 
-
+***
 Yoseph Shimelis----> github username (Yeshua20)
 Gedion Sisay -----> github username  (Gedwon)
 Fuad Abubeker -----> github username (Fua21)
 Antishetif Tamiru ----> github username ()
-
+***
 Project Keynotes
 
-_The projects are:-_
+**_The projects are:-_**
+
   **Calcuator Tool**
   **Quiz App that consists of General,History and langauge questions.**
   
