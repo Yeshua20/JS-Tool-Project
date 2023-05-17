@@ -1,10 +1,9 @@
 :root{
-    :root{
         --bg-color: #F9FBE7;
         --secondary-color: #537188;
         --text-color: #000000;
     }
-}
+
 *{
     margin: 0;
     padding: 0;
