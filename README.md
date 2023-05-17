@@ -2,11 +2,12 @@
 This is a JavaScript tools group project <br>
 ****
 Group Member 
-***
-Yoseph Shimelis----> github username (Yeshua20) **
-Gedion Sisay -----> github username  (Gedwon) **
-Fuad Abubeker -----> github username (Fua21) **
-Antishetif Tamiru ----> github username () **
+
+**Yoseph Shimelis----> github username (Yeshua20) **
+**Gedion Sisay -----> github username  (Gedwon) **
+**Fuad Abubeker -----> github username (Fua21) **
+**Antishetif Tamiru ----> github username () **
+
 ***
 Project Keynotes
 
